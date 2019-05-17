@@ -1,1 +1,1 @@
-Used to test GitHub Desktop
+Used to test GitHub Desktop and Git
