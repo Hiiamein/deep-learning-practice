@@ -17,4 +17,9 @@ inputs = torch.randn(time_steps, batch_size, input_size)
 &emsp;&emsp;time_steps是输入时间序列的序列长度，如输入一个十个单词的句子，time_steps即为10  
 &emsp;&emsp;batch_size就是字面意思  
 &emsp;&emsp;input_size是输入每一个单独数据自身的维度，即属性个数（与上面一样)  
-&emsp;&emsp;注意：这里是默认需要的inputs数据维度，batch_size位于第二维，如果在model的参数里面将batch_first=True，则需要的inputs维度变为(batch_size, time_steps, input_size)  
+&emsp;&emsp;（注意：这里是默认需要的inputs数据维度，batch_size位于第二维，如果在model的参数里面将batch_first=True，则需要的inputs维度变为(batch_size, time_steps, input_size)）  
+h0 = torch.zeros(num_layers, batch_size, hidden_size)  
+out, h = model(inputs, h0)  
+&emsp;&emsp;out的shape为[time_steps, batch_size, hidden_size]  
+&emsp;&emsp;h的shape为[num_layers, batch_size, hidden_size]  
+&emsp;&emsp;所以out[-1, :, :]与h[-1, :, :]相等
