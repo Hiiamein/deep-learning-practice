@@ -26,9 +26,11 @@
   - **各种激活函数分析**
 
 - [GoogleNet](https://arxiv.org/abs/1409.4842)
+  - 也叫Inception v1
 
 - [ResNet](https://arxiv.org/abs/1512.03385)
   - 个人认为是深度学习中开天辟地的一篇论文:joy:
+  - 代码学习
 
 - [Inception v2 v3](https://arxiv.org/abs/1512.00567)
 
@@ -45,17 +47,22 @@
 
 - [Xception](https://arxiv.org/abs/1610.02357)
 
-- [Residual Attention Network]()
+- [Residual Attention Network](https://arxiv.org/abs/1704.06904)
+  - 基于attention机制的模型
 
 - [SENet](https://arxiv.org/abs/1709.01507)
+  - 也类似于attention机制，只不过是通道之间的attention
 
 - [MobileNet v1](https://arxiv.org/abs/1704.04861)
+  - 轻量级网络
 
 - [ShuffleNet v1](https://arxiv.org/abs/1707.01083)
+  - 轻量级网络
 
 - [MobileNet v2](https://arxiv.org/abs/1801.04381)
 
 - [ShuffleNet v2](https://arxiv.org/abs/1807.11164)
 
 - [Res2Net](https://arxiv.org/abs/1904.01169)
+  - 多尺度
 
