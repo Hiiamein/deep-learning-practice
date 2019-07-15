@@ -24,7 +24,7 @@
 - [VGG](https://arxiv.org/abs/1409.1556)
   - 代码学习
 
-- [PReLU-nets](https://arxiv.org/abs/1409.4842)
+- [PReLU-nets](https://arxiv.org/abs/1502.01852)
   - **各种激活函数分析**
 
 - [GoogleNet](https://arxiv.org/abs/1409.4842)
