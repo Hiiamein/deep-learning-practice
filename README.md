@@ -17,46 +17,45 @@
 
 ### 2019年7月15日——2019年7月21日
 
-**图像分类重要论文研读。图像分类是深度学习中最基础最重要的任务，通过对图像分类的**
+**图像分类重要论文研读。图像分类是深度学习中最基础最重要的任务，通过对图像分类的学习，可以透彻理解深度学习中最重要的基础知识。而且，在现实应用中，图像分类任务还有很多问题没有得到解决，因此图像分类值得多花时间学习研究。**
 
-- [VGG]()
+- [VGG](https://arxiv.org/abs/1409.1556)
   - 代码学习
 
-- [PReLU-nets]()
+- [PReLU-nets](https://arxiv.org/abs/1409.4842)
   - **各种激活函数分析**
 
-- [resnet]()
+- [GoogleNet](https://arxiv.org/abs/1409.4842)
+
+- [ResNet](https://arxiv.org/abs/1512.03385)
   - 个人认为是深度学习中开天辟地的一篇论文:joy:
 
-- [GoogleNet]()
+- [Inception v2 v3](https://arxiv.org/abs/1512.00567)
 
-- [inception v2]()
+- [Inception v4](https://arxiv.org/abs/1602.07261)
 
-- [inception v3]()
+- [WRN](https://arxiv.org/abs/1605.07146)
+  - 学会分析网络深度、宽度和输入分辨率对计算量的影响
 
-- [inception v4]()
+- [PyramidNet](https://arxiv.org/abs/1610.02915)
 
-- [WRN]()
+- [DenseNet](https://arxiv.org/abs/1608.06993)
 
-- [PyramidNet]()
+- [ResNext](https://arxiv.org/abs/1611.05431)
 
-- [DenseNet]()
-
-- [ResNext]()
-
-- [Xception]()
+- [Xception](https://arxiv.org/abs/1610.02357)
 
 - [Residual Attention Network]()
 
-- [SENet]()
+- [SENet](https://arxiv.org/abs/1709.01507)
 
-- [MobileNet v1]()
+- [MobileNet v1](https://arxiv.org/abs/1704.04861)
 
-- [ShuffleNet v1]()
+- [ShuffleNet v1](https://arxiv.org/abs/1707.01083)
 
-- [MobileNet v2]()
+- [MobileNet v2](https://arxiv.org/abs/1801.04381)
 
-- [ShuffleNet v2]()
+- [ShuffleNet v2](https://arxiv.org/abs/1807.11164)
 
-- []()
+- [Res2Net](https://arxiv.org/abs/1904.01169)
 
