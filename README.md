@@ -15,3 +15,48 @@
 - 使用GitHub desktop管理仓库。Windows上用这个软件比git命令更方便，上面让你们掌握的git命令以后在Linux上会用到。
 - 学会基本的markdown语法，这对于写技术文档里是非常重要的。后面会有**paper研读计划、实际项目练习**等，你们在学习过程中的经验教训等的总结都写在自己的分支里面。大家可以查看别人的branch，共同提高。
 
+### 2019年7月15日——2019年7月21日
+
+**图像分类重要论文研读。图像分类是深度学习中最基础最重要的任务，通过对图像分类的**
+
+- [VGG]()
+  - 代码学习
+
+- [PReLU-nets]()
+  - **各种激活函数分析**
+
+- [resnet]()
+  - 个人认为是深度学习中开天辟地的一篇论文:joy:
+
+- [GoogleNet]()
+
+- [inception v2]()
+
+- [inception v3]()
+
+- [inception v4]()
+
+- [WRN]()
+
+- [PyramidNet]()
+
+- [DenseNet]()
+
+- [ResNext]()
+
+- [Xception]()
+
+- [Residual Attention Network]()
+
+- [SENet]()
+
+- [MobileNet v1]()
+
+- [ShuffleNet v1]()
+
+- [MobileNet v2]()
+
+- [ShuffleNet v2]()
+
+- []()
+
